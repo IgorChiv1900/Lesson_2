@@ -1,9 +1,8 @@
-public class Park {
+public class Park
     private int id;
-    private string name;
-    private string timeWork;
-    Public class Address;
-    private string city;
-    private string street;
+    private String name;
+    private String timeWork;
+    public class Address;
+    private String city;
+    private String street;
     private int houseId;
-}
